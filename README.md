@@ -6,6 +6,10 @@ Burp or Burp Suite is a set of tools used for penetration testing of web applica
 <br>
 https://drive.proton.me/urls/BSKP5VM4SC#i5iW1Z2OghRi
 
+<b> Burp Suite 2022.8.5</b>
+<br>
+https://portswigger-cdn.net/burp/releases/download?product=pro&version=2022.8.5&type=Jar
+
 # Burp-Loader
 ##################################** Prequisites **#############################################
 
