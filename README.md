@@ -64,6 +64,6 @@ https://portswigger-cdn.net/burp/releases/download?product=pro&version=2022.8.5&
 	**6.2 For Executing Burp in Linux, Write burp in Terminal and press Enter.**
 
 
-
+POC for Windows : https://youtu.be/GuNiH1VUCGU
 
 
