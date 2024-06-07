@@ -13,7 +13,7 @@ https://portswigger-cdn.net/burp/releases/download?product=pro&version=2022.8.5&
 
 <b>Burp Suite for Windows 2022.8.5</b>
 
---> https://drive.google.com/drive/folders/1UIYfUAFJFfwIwhp-IukJeqSpkzdXRcAz?usp=share_link
+    https://drive.google.com/file/d/1o63TFBQ1l0uURH3cLnNNwtT_R_6ELEP2/view?usp=sharing
 
 
 
