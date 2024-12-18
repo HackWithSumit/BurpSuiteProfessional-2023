@@ -15,8 +15,7 @@ Burp or Burp Suite is a set of tools used for penetration testing of web applica
 
 <b>Burp Suite for Windows 2022.8.5</b>
 
-    https://drive.google.com/file/d/1o63TFBQ1l0uURH3cLnNNwtT_R_6ELEP2/view?usp=sharing
-
+    https://drive.google.com/drive/folders/1UIYfUAFJFfwIwhp-IukJeqSpkzdXRcAz?usp=drive_link
 
 
 # Burp-Loader
