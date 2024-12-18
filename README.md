@@ -18,6 +18,15 @@ Burp or Burp Suite is a set of tools used for penetration testing of web applica
     https://drive.google.com/drive/folders/1UIYfUAFJFfwIwhp-IukJeqSpkzdXRcAz?usp=drive_link
 
 
+POC for Windows :
+
+
+
+https://github.com/user-attachments/assets/17703787-27c8-4c5e-9821-37013c924aee
+
+
+
+
 # Burp-Loader
 ##################################** Prequisites **#############################################
 
@@ -65,6 +74,6 @@ Burp or Burp Suite is a set of tools used for penetration testing of web applica
 	**6.2 For Executing Burp in Linux, Write burp in Terminal and press Enter.**
 
 
-POC for Windows : https://youtu.be/GuNiH1VUCGU
+
 
 
