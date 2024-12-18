@@ -20,9 +20,12 @@ Burp or Burp Suite is a set of tools used for penetration testing of web applica
 
 POC for Windows :
 
-
-
 https://github.com/user-attachments/assets/17703787-27c8-4c5e-9821-37013c924aee
+
+
+POC For Linux:
+
+
 
 
 
